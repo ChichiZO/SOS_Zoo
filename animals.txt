@@ -14,3 +14,4 @@ Butterfly
 Grasshopper
 Caterpillar
 Mosquito
+Moth
