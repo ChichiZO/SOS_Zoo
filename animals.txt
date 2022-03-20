@@ -15,3 +15,4 @@ Grasshopper
 Caterpillar
 Mosquito
 Moth
+Praying Mantis
