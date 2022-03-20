@@ -18,7 +18,5 @@ Anaconda
 Gecko
 Komodo dragon
 Cobra
-Housefly
-Cockroaches
-Butterfly
+
 
