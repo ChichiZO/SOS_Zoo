@@ -8,3 +8,6 @@ Wolf
 Elephant
 Monkey
 Deer
+Adder
+Alligator
+Black Mamba
