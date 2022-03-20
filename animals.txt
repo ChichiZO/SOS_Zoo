@@ -17,4 +17,5 @@ Caterpillar
 Mosquito
 Moth
 Praying Mantis
-Bettle
+Beetle
+Ant
