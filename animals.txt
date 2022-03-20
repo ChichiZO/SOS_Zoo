@@ -12,3 +12,4 @@ Housefly
 Cockroaches
 Butterfly
 Grasshopper
+Caterpillar
