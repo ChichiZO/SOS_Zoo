@@ -13,3 +13,4 @@ Cockroaches
 Butterfly
 Grasshopper
 Caterpillar
+Mosquito
